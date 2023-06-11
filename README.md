@@ -9,15 +9,9 @@ _Special thanks to [@Phineas](https://github.com/Phineas/) for creating Lanyard,
 
 First, join the Lanyard [Discord](https://discord.com/invite/WScAm7vNGF) (if you haven't already) for this to work.
 
-In a `README.md` file, include the following, replacing `:id` with your Discord user ID:
-
-```md
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:id)
-```
-
 It should display something similar to the following (I am using my Discord user ID as an example):
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1095677656105767012)](https://discord.com/users/1095677656105767012)
 
 When others click it, they will be directed to your actual Discord profile. Neat!
 
