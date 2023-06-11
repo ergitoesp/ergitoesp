@@ -3,8 +3,7 @@
 
 🏷️ CEO BlueProjects
 
-_[Discord](https://discord.gg/atAZH4bzfp)_
-_[BotList](https://discord.gg/VQezA9jeGX)_
+_[Discord](https://discord.gg/atAZH4bzfp)_ _[BotList](https://discord.gg/VQezA9jeGX)_
 
 ## Me
 
