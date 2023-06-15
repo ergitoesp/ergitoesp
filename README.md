@@ -1,9 +1,10 @@
 <!-- markdownlint-disable -->
 # ergito ![image](https://github.com/ergitoesp/ergitoesp/assets/134168866/7722d000-40a7-4588-ae01-3d8a505bdf32)
 
-🏷️ CEO BlueProjects
+<h1>CEO BlueProjects</h1>
 
 _[Discord](https://discord.gg/atAZH4bzfp)_
+<p></p>
 _[BotList](https://discord.gg/VQezA9jeGX)_
 
 <h3 align="left">Languages and Tools:</h3>
