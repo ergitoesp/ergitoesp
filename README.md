@@ -17,4 +17,4 @@ _[BotList](https://discord.gg/VQezA9jeGX)_
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergitoesp&layout=compact&title_color=ff0067&text_color=ffffff&icon_color=ff0067&bg_color=222222" height="180">
 </p>
 <h1>Discord</h1> 
-<img src="https://lanyard.cnrad.dev/api/1095677656105767012?theme=dark&bg=292929ecf&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Making%20some%20new%20projects.">
+<img src="https://lanyard.cnrad.dev/api/1095677656105767012?theme=dark&bg=292929ecf&animated=false&hideDiscrim=false&borderRadius=20px&idleMessage=Making%20some%20new%20projects.">
