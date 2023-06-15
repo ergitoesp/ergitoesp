@@ -1,8 +1,8 @@
 <!-- markdownlint-disable -->
 # ergito ![image](https://github.com/ergitoesp/ergitoesp/assets/134168866/7722d000-40a7-4588-ae01-3d8a505bdf32)
 
-<h1>CEO BlueProjects 
-_[BlueDevelopment](https://discord.gg/Gb2EnfduH2)_ </h1>
+<h1>CEO BlueProjects  </h1>
+_[BlueDevelopment](https://discord.gg/Gb2EnfduH2)_ 
 <p></p>
 
 <h3 align="left">Languages and Tools:</h3>
