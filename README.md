@@ -17,3 +17,8 @@ _[BotList](https://discord.gg/VQezA9jeGX)_
 </p>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1095677656105767012?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1095677656105767012)
+
+
+<img src="https://lanyard.cnrad.dev/api/1095677656105767012">
+
+<img src="https://lanyard.cnrad.dev/api/1095677656105767012?theme=dark&bg=292929ecf&animated=false&hideDiscrim=true&borderRadius=20px&idleMessage=Making%20some%20new%20projects.">
