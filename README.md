@@ -3,7 +3,7 @@
 
 <h1>CEO BlueProjects</h1>
 
-_[Discord](https://discord.gg/atAZH4bzfp)_
+_[BlueDevelopment](https://discord.gg/Gb2EnfduH2)_
 <p></p>
 
 <h3 align="left">Languages and Tools:</h3>
