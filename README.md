@@ -16,4 +16,4 @@ _[BotList](https://discord.gg/VQezA9jeGX)_
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergitoesp&layout=compact&title_color=ff0067&text_color=ffffff&icon_color=ff0067&bg_color=222222" height="180">
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1095677656105767012?theme=blue&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1095677656105767012)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1095677656105767012?theme=orange&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/1095677656105767012)
