@@ -1,7 +1,7 @@
 <!-- markdownlint-enable -->
 # ergito 
 <h5>Me Nacionality</h5>
-![image](https://github.com/ergitoesp/ergitoesp/assets/134168866/a79927bc-5c6b-4dab-9c0f-cc12d53ddcb4)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134168866/246201247-a79927bc-5c6b-4dab-9c0f-cc12d53ddcb4.png"</img>
 
 
 <h4>Owner of BlueDevelopment</h4>
