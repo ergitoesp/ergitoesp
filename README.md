@@ -1,6 +1,6 @@
 <!-- markdownlint-enable -->
 <h1> Sergio, Spain </h1><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/134168866/246201247-a79927bc-5c6b-4dab-9c0f-cc12d53ddcb4.png" height="50"</img>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1O5IIV)
+[ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U1O5IIV)
 
 <h4>Owner of BlueDevelopment</h4>
 
