@@ -6,5 +6,5 @@
   <img src="https://github-stats-extended.vercel.app/api?username=ergitoesp&show_icons=true&count_private=true&title_color=00D4FF&text_color=ffffff&icon_color=FFFFFF&bg_color=585858" height="180" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ergitoesp&layout=compact&title_color=00D4FF&text_color=ffffff&icon_color=FFFFFF&bg_color=585858" height="180" />
 </p>
-<h3>Discord</h3> 
+<!-- discord -->
 <img src="https://lanyard.cnrad.dev/api/1095677656105767012?theme=dark&bg=292929ecf&animated=false&hideDiscrim=true&borderRadius=20px&idleMessage=Making%20some%20new%20projects.">
